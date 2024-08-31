@@ -4,7 +4,7 @@ This is the official repository of the CVPR 2024 paper **"GOV-NeSF: Generalizabl
 
 ## Installation
 
-To get started, follow the [Installation from NeRF-Det](https://github.com/facebookresearch/NeRF-Det)
+To get started, follow the [Installation from NeRF-Det](https://github.com/facebookresearch/NeRF-Det) and install ```requirementx.txt```.
 
 
 ## Acquiring Datasets
