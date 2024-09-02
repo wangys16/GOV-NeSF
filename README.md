@@ -40,7 +40,7 @@ bash tools/dist_train.sh configs/gov_nesf/test/scannet_test3d.py [NUM_GPUS] [WOR
 
 
 ## BibTeX
-
+If you find our work helpful, please cite our paper. Thank you!
 ```
 @inproceedings{wang2024gov,
   title={GOV-NeSF: Generalizable Open-Vocabulary Neural Semantic Fields},
