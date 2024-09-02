@@ -8,7 +8,7 @@ To get started, follow the [Installation from NeRF-Det](https://github.com/faceb
 
 
 ## Acquiring Datasets
-You can download our preprocessed subset of ScanNet [here](https://drive.google.com/file/d/1GjfdpOi8ukJrvFSOplk-zkTlIeUx99Iv/view?usp=drive_link). And you should change the data path in ```configs/gov_nesf/**.py``` accrodingly.
+You can download our preprocessed subset of ScanNet [here](https://drive.google.com/file/d/1GjfdpOi8ukJrvFSOplk-zkTlIeUx99Iv/view?usp=drive_link). And you should change the data path in ```configs/gov_nesf/**.py``` accordingly.
 
 ## Running the Code
 
