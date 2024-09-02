@@ -53,4 +53,4 @@ If you find our work helpful, please consider citing our paper. Thank you!
 
 ## Acknowledgements
 
-This work is supported by the Agency for Science, Technol- ogy and Research (A*STAR) under its MTC Programmatic Funds (Grant No. M23L7b0021).
+This work is supported by the Agency for Science, Technology and Research (A*STAR) under its MTC Programmatic Funds (Grant No. M23L7b0021).
